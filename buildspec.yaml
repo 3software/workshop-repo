@@ -35,4 +35,6 @@ artifacts:
               - taskdef.json
       ImageArtifact:
           files:
-              - imageDetail.json
+              - imageDetail.jsongit add buildspec.yaml
+git commit -m "adding buildspec.yaml"
+git push -u origin main
