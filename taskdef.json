@@ -1,6 +1,0 @@
-{
-  "taskDefinitionArns": [
-    "arn:aws:ecs:us-east-1:671849392785:task-definition/devops-workshop-task:1",
-    "arn:aws:ecs:us-east-1:671849392785:task-definition/another-task:2"
-  ]
-}
